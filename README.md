@@ -1,4 +1,4 @@
-# Future_DS_01 – Power BI Marketing Dashboard
+# Future_DS_02 – SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER
 
 ## Overview
 This repository contains my **SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER** completed as part of the **Future Interns Data Science Internship**.  
