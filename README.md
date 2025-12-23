@@ -7,9 +7,9 @@ The dashboard analyzes marketing campaign performance across multiple channels, 
 ---
 
 ## Files
-- `Marketing_Dashboard.pbix` → Power BI file containing all visuals and charts.  
-- `Dataset/` → Original dataset used for analysis.  
-- `Screenshots/` → Key charts and KPI cards for reference.  
+- `task2.pbix` → Power BI file containing all visuals and charts.  
+- `Advertising_Data.csv` → Original dataset used for analysis.  
+- `dashboard2.JPEG` → Key charts and KPI cards for reference.  
 - `Insights/` → Summary of observations and recommendations.
 
 ---
